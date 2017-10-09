@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Main-Class: edu.gatech.khet.KhetMain
+Class-Path: java-getopt-1.0.14.jar
+
